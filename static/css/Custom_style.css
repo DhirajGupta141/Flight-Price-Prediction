@@ -1,0 +1,17 @@
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+.navbar {
+    background-color:black;
+}
+
+a {
+    color: red;
+}
+
+a:hover
+ {
+    color: gray;
+  }
